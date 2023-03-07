@@ -4,6 +4,8 @@
 
 This Application allows you to get real time weather data.
 
+![2023-03-06_17-57](https://user-images.githubusercontent.com/67952319/223518649-bee12766-03f5-4096-b2e8-b2d0acbb4dcc.png)
+
 ## How to run
 
 To run this project on your local machine make sure that all the following are checked
